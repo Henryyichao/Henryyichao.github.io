@@ -25,9 +25,10 @@ layout: page
         <div class="tags">
             <% post.tags.forEach(function(tag){ %>
               <a href="<%= config.root %>tags/#<%= tag.name %>" title="<%= tag.name %>"><%= tag.name %></a>
-            <% }) %>
-        </div>
-    <%} else {%>
+            <% })  %>
+        </div><%}
+
+    else {%>
         <p class="post-meta">
             Posted by <%- post.author || config.author %> on
             <%= post.date.format(config.date_format) %>
