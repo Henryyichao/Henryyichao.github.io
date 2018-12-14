@@ -216,6 +216,6 @@ sitemap:
 # branch: master
 deploy:
   type: git
-  repository: https://github.com/Henryyichao/hycblog.github.io
+  repository: http://github.com/Henryyichao/hycblog.github.io.git/
   branch: master
   message: Update CNAME
