@@ -204,7 +204,7 @@ data-fixed: true
   # data-autoplay:
 
 ## Themes: https://hexo.io/themes/
-theme: jekyll-theme-cayman
+theme: huweihuang
 
 #sitemap
 sitemap:
