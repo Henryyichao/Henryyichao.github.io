@@ -1,38 +1,38 @@
 ---
 layout: "about"
 title: "About"
-date: 2017-10-03 10:48:33
+date: 2018-12-20 01:36:45
 description: "走在成为极客的路上"
 header-img: "/img/header_img/about.jpg"
 aplayer: true
 fixed: false
 ---
 
-### 一句话
-
->Just do it !    (翻译：我只是个搞 IT的！哭笑脸)
-
 ### 关于我
 
->一个莫名其妙的，喜欢敲代码，喜欢研究技术的，表面上高冷、不苟言笑的，
+>比较懒经常迷失方向的爱好广泛症患者
 >
->偶尔又嬉皮笑脸，偶尔又特立独行的，双重性格的技术爱好者！
+>从历史学跳到国际关系，考PKU未成
+>
+>从媒体看上社会学，又从社会统计勾搭数据分析
+>
+>空谈误国，实干兴邦
+>
+>希望接下来做点实际的事情
+>
+>P.S.祖源华北，爱好社交和运动
 
 ### 兴趣方向
 
-> 容器云（Docker、Kubernetes等）相关生态技术研究。
+> 数据分析、计算社会学
 
 ### 参与社区
 
- > CSDN博客:http://blog.csdn.net/huwh_
- >
- > Github:https://github.com/huweihuang
- >
- > 阿里云栖社区:https://yq.aliyun.com/u/huweihuang
- >
- > DockOne社区:http://dockone.io/people/胡伟煌
+ > >
+ > > Github:https://github.com/Henryyichao
+ > >
 
 ### 联系我
 
->Email: huweihuang@foxmail.com
+>Email: hyc2011gk@gmail.com
 
