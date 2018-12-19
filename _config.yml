@@ -39,7 +39,7 @@ zhihu_username:     s10397hou-yi-chao/activities
 github_username:    Henryyichao
 # twitter_username:   Demonbane_x
 facebook_username:  teddy.green.56
-linkedin_username:  /in/逸超-侯-264839118/
+linkedin_username:  逸超-侯-264839118/
 douban_username:   53087967
 
 # Build settings
@@ -100,7 +100,12 @@ friends: [
     {
         title: "温故知新小馆",
         href: "https://mp.weixin.qq.com/s/ILhpXQMJuMx9-iBKuwPDww"
+    },
+    {
+        title: "小猎户星的豆瓣",
+        href: "https://www.douban.com/people/53087967/"
     }
+
 ]
 
 
