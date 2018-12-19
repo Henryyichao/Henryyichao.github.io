@@ -25,7 +25,7 @@ SEOTitle: 侯逸超 | Blog
 email: hyc2011gk@gmail.com
 description: ""
 keyword: ""
-header-img: https://steamcdn-a.akamaihd.net/steam/apps/582160/ss_1a0ab42e93e51c48ad9a6bda7f408958e09a43b0.1920x1080.jpg?t=1532007112
+header-img: http://conceptartworld.com/wp-content/uploads/2013/10/Assassins_Creed_IV_Black_Flag_Concept_Art_MD_27.jpg
 article-img: /img/article_header/article_bg.jpg
 404-img: /img/header_img/404.png
 signature: false #show signature
@@ -34,12 +34,13 @@ signature-img: img/signature/BeanTechSign-white.png
 
 # SNS settings
 # RSS: false
-weibo_username:     红衣煮饺李三流
-zhihu_username:     s10397侯逸超
+#weibo_username:     5592214299
+zhihu_username:     s10397hou-yi-chao/activities
 github_username:    Henryyichao
 # twitter_username:   Demonbane_x
-#facebook_username:  YenYuHsuan
-linkedin_username:  侯逸超
+facebook_username:  teddy.green.56
+linkedin_username:  /in/逸超-侯-264839118/
+douban_username:   53087967
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
@@ -65,7 +66,7 @@ ga_domain: yoursite
 # Sidebar settings
 sidebar: true                       # whether or not using Sidebar.
 sidebar-about-description: "Sic itur ad astra"
-sidebar-avatar: /img/avatar/luke.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://cdn-std.dprcdn.net/files/acc_649351/M1EgDI      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - featured-tags
 - short-about
