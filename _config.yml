@@ -40,7 +40,7 @@ github_username:    Henryyichao
 # twitter_username:   Demonbane_x
 facebook_username:  teddy.green.56
 linkedin_username:  逸超-侯-264839118/
-douban_username:   53087967
+#douban_username:   53087967
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
@@ -90,11 +90,11 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 ## Friends
 friends: [
     {
-        title: "大唐猎户的游记",
+        title: "大唐猎户游记",
         href: "http://www.mafengwo.cn/u/65761381.html"
     },
     {
-        title: "猴尔摩斯",
+        title: "猴尔摩斯公号",
         href: "https://mp.weixin.qq.com/s/hAQU3QJN9BJ7G9rj5MOjXA"
     },
     {
@@ -102,7 +102,7 @@ friends: [
         href: "https://mp.weixin.qq.com/s/ILhpXQMJuMx9-iBKuwPDww"
     },
     {
-        title: "小猎户星的豆瓣",
+        title: "小猎户星豆瓣",
         href: "https://www.douban.com/people/53087967/"
     }
 
@@ -222,6 +222,6 @@ sitemap:
 # branch: master
 deploy:
   type: git
-  repository: http://github.com/Henryyichao/Henryyichao.github.io.git/
+  repository: http://github.com/Henryyichao/Henryyichao.github.io
   branch: master
   message: Update CNAME
