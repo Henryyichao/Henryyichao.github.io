@@ -3,8 +3,85 @@
 
 
     <url>
-        <loc>http://www.houyichao.com/tags/Hexo/</loc>
-        <lastmod>2018-12-19T12:33:03.688Z</lastmod>
+        <loc>http://www.houyichao.com/tags/%E6%96%B0%E9%99%88%E4%BB%A3%E8%B0%A2/</loc>
+        <lastmod>2018-12-19T17:21:57.201Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.houyichao.com/tags/%E4%B8%89%E4%BD%93/</loc>
+        <lastmod>2018-12-19T17:24:14.987Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.houyichao.com/tags/%E4%BA%BA%E7%B1%BB%E5%AD%A6/</loc>
+        <lastmod>2018-12-19T17:24:49.965Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.houyichao.com/tags/%E4%B8%AD%E7%BE%8E/</loc>
+        <lastmod>2018-12-19T17:25:20.259Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.houyichao.com/tags/%E5%93%88%E8%80%B6%E5%85%8B/</loc>
+        <lastmod>2018-12-19T17:25:50.451Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.houyichao.com/tags/%E8%BF%B7%E8%8C%AB/</loc>
+        <lastmod>2018-12-19T17:26:49.303Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.houyichao.com/tags/%E9%98%B6%E5%B1%82/</loc>
+        <lastmod>2018-12-19T17:27:11.670Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.houyichao.com/tags/%E7%8E%B0%E4%BB%A3%E6%80%A7/</loc>
+        <lastmod>2018-12-19T17:36:13.711Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.houyichao.com/tags/%E5%AD%A6%E7%A7%91/</loc>
+        <lastmod>2018-12-19T17:47:06.537Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.houyichao.com/tags/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/</loc>
+        <lastmod>2018-12-19T17:47:57.583Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.houyichao.com/tags/%E4%BA%BA%E5%8F%A3%EF%BC%8C%E4%B9%B0%E6%88%BF/</loc>
+        <lastmod>2018-12-19T17:48:44.459Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.houyichao.com/tags/%E5%87%AF%E6%81%A9%E6%96%AF/</loc>
+        <lastmod>2018-12-19T17:56:51.174Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
